@@ -1,4 +1,4 @@
-# Build a Simple Calculator
+# Build a Si  mple Calculator
 
 ## Learning Goals
 
